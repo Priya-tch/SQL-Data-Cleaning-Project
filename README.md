@@ -12,9 +12,9 @@ The project demonstrates common SQL data cleaning techniques such as removing du
 
 World-Layoffs-SQL-Data-Cleaning
 
-── Data_Cleaning.sql
-── layoffs.csv
-── README.md
+* Data_Cleaning.sql
+* layoffs.csv
+* README.md
 
 ---
 
@@ -130,11 +130,3 @@ Through this project, I gained practical experience in:
 - Preparing datasets for further analysis
 
 ---
-
-• Author
-
-PRIYA T
-
-GitHub: _(Add your GitHub profile link)_
-
-LinkedIn: https://www.linkedin.com/in/priya-t-b9649427b/
